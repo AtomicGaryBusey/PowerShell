@@ -1,0 +1,2 @@
+$dir = ""
+tree /F $dir
