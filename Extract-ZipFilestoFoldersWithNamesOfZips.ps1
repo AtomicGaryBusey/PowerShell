@@ -15,6 +15,9 @@
 # Requires 7-Zip: https://www.7-zip.org/download.html
 # Get the command line version.
 ###############################################################################
+# Requires Windows PowerShell because of the .NET method used.
+# PSCore not yet supported, so this script is Windows-only.
+###############################################################################
 
 # Base script from: https://superuser.com/a/620077
 # Upgraded Script Version: 1.0
