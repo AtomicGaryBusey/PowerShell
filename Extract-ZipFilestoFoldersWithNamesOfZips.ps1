@@ -1,6 +1,7 @@
 ###############################################################################
-# Recursively extract all zip files in a series of folders into
-# folders named after the zip files themselves.
+# Recursively extract all zip files in a series of folders into folders named
+# after the zip files themselves. It also cleans up behind itself by deleting 
+# the zip files. This is intentional because I target an SD card with it.
 # 
 # Example: The contents of the two zip files C:\Zips\zipfile1.zip and 
 # C:\Zips\zipfile2.zip will be extracted to two paths named 
