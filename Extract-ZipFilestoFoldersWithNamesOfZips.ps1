@@ -9,6 +9,11 @@
 # Why? This is useful for things like zipped photo and zipped ROM management
 # where you want to keep files separated into folders but when there are no
 # folders inside the zips. Expecially useful for multipart bin/cue messes.
+#
+# Example execution: .\Unzip-AllRomsOnSDCard.ps1 -folderPath "C:\Zips\" -sevenZipPath "C:\7z1900-extra\7za.exe"
+###############################################################################
+# Requires 7-Zip: https://www.7-zip.org/download.html
+# Get the command line version.
 ###############################################################################
 
 # Base script from: https://superuser.com/a/620077
