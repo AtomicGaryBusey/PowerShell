@@ -16,7 +16,7 @@
 # Get the command line version.
 ###############################################################################
 # Requires Windows PowerShell because of the .NET method used.
-# PSCore not yet supported, so this script is Windows-only.
+# PowerShell Core not yet supported, so this script is Windows-only.
 ###############################################################################
 
 # Base script from: https://superuser.com/a/620077
